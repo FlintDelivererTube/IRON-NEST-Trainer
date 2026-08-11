@@ -5,8 +5,6 @@
 [![Version](https://img.shields.io/badge/version-v1.0.0-c9962f)](https://github.com/FlintDelivererTube/IRON-NEST-Trainer/releases/latest)
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-1c1813)](https://github.com/FlintDelivererTube/IRON-NEST-Trainer/releases/latest)
 [![Store](https://img.shields.io/badge/store-Steam-1b2838)](#compatibility)
-[![Leaderboards](https://img.shields.io/badge/leaderboards-blocked%20by%20default-c25640)](#leaderboards-and-achievements)
-[![Downloads](https://img.shields.io/github/downloads/FlintDelivererTube/IRON-NEST-Trainer/total)](https://github.com/FlintDelivererTube/IRON-NEST-Trainer/releases)
 [![License](https://img.shields.io/badge/license-MIT-e0c060)](LICENSE)
 
 > **[⬇ Download the latest IRON NEST trainer](https://github.com/FlintDelivererTube/IRON-NEST-Trainer/releases/latest)**
